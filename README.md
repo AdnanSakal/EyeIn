@@ -28,7 +28,8 @@ After a few seconds, the application will access the webcam and begin receiving 
 
 
 
-How TO USE THE APPLICATION 
+## How TO USE THE APPLICATION
+if eye closed then morse code = 0 else 1 (use your right eye to do this) 
 
 ![five](img/first1.png)
 
