@@ -353,4 +353,3 @@ def whole():
     cap.release()
     cv2.destroyAllWindows()
 
-whole()
