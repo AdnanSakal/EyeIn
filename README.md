@@ -27,7 +27,7 @@ After a few seconds, the application will access the webcam and begin receiving 
 
 How TO USE THE APPLICATION 
 
-                ![five](img/first1.png)
+![five](img/first1.png)
 
 এখানে সবার ডানে উপরে হচ্ছে সময় যা ২ সেকেন্ড পর্যন্ত গুনতে থাকবে । তার নিচে হচ্ছে “sug(R)” টেক্সট সাজেশন নেওয়ার জন্য ব্যাবহার করা হয়। তার নিচে হচ্ছে “inc_TC(L)”যেই মোর্স কোড টা আসছে তা ওয়ার্ড এ রুপ দেওয়ার জন্য কনফার্মেশন ভেলু। তার নিচে হছে “Text” অর্থাৎ এখন পর্যন্ত যা যা ওয়ার্ড বলা হেয়েছে 
 
