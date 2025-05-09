@@ -1,4 +1,4 @@
-### EyeIn
+# EyeIn
 
 
 Communication for individuals with Locked-In Syndrome (LIS)—a condition where a person is conscious but cannot move or speak due to paralysis—faces several disadvantages despite advancements in assistive technologies. Effective communication often requires specialized devices that may be expensive, fragile, or unavailable in certain environments (e.g., during power outages or travel). Communication usually involves third-party, which can compromise privacy and autonomy.
