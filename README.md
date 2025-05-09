@@ -1,3 +1,6 @@
+##EyeIn
+
+
 Communication for individuals with Locked-In Syndrome (LIS)—a condition where a person is conscious but cannot move or speak due to paralysis—faces several disadvantages despite advancements in assistive technologies. Effective communication often requires specialized devices that may be expensive, fragile, or unavailable in certain environments (e.g., during power outages or travel). Communication usually involves third-party, which can compromise privacy and autonomy.
 To address these challenges, I developed a communication system for individuals with Locked-In Syndrome that uses blinking-based Morse code input combined with text suggestions and next-word prediction to significantly speed up and simplify communication. This solution enhances autonomy, reduces reliance on third parties, and allows users to convey complex thoughts more efficiently without the need for expensive hardware.
 
