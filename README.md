@@ -29,6 +29,8 @@ After a few seconds, the application will access the webcam and begin receiving 
 
 
 ## How TO USE THE APPLICATION
+
+<video controls src="video guide 0.mp4" title="video_guide"></video>
 if eye closed then morse code = 0 else 1 (use your right eye to do this) 
 
 
