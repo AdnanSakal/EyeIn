@@ -31,6 +31,7 @@ After a few seconds, the application will access the webcam and begin receiving 
 ## HOW TO USE THE APPLICATION
 
 video demo: https://www.linkedin.com/feed/update/urn:li:activity:7327714191702720513/ 
+
 if eye closed then morse code = 0 else 1 (use your right eye to do this) 
 
 
